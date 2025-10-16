@@ -128,6 +128,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="COMP 3010 In Class.cpp" />
+    <ClCompile Include="Dog.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Dog.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

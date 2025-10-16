@@ -15,6 +15,6 @@ int main()
 
 void fun()
 {
-    //This is a real comment
+    //asdfasd
 
 }

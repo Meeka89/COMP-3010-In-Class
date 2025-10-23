@@ -5,15 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
+    std::cout << "God is good.\n";
     //add a comment to explain stuff
 }
 

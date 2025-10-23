@@ -14,6 +14,7 @@ int main()
     std::cout << "Hello World!\n";
     std::cout << "Hello World!\n";
     std::cout << "Hello World!\n";
+    std::cout << "Grant Lawson's version of this project #LoveSoftwareDev\n";
     //add a comment to explain stuff
 }
 

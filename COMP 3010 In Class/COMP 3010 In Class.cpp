@@ -5,6 +5,7 @@
 
 int main()
 {
+    std::cout << "Submission by Daniel O - COMP-3010" << std::endl;
     std::cout << "Hello World!\n";
     std::cout << "Hello World!\n";
     std::cout << "Hello World!\n";
